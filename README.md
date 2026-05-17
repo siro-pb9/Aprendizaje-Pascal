@@ -1,62 +1,82 @@
-# UNLP Ingeniería en Computación - Bitácora 🚀
+# UNLP Ingeniería en Computación — Bitácora Académica 🎓🚀
 
-Este repositorio contiene todos los trabajos, prácticas y proyectos de la carrera de **Ingeniería en Computación** que realize o voy a realizar en la Universidad Nacional de La Plata (UNLP).
+<p align="center">
+  <img src="./banner.png" alt="UNLP Ingeniería en Computación Banner" width="100%" />
+</p>
 
-## 🗂️ Estructura del Repositorio
-
-El repositorio está organizado por **áreas de conocimiento** y luego por **materias**. Aquí tienes el mapa completo de la carrera:
-
-### 💻 Programación
-- `programacion/programacion-I/` (Pascal)
-- `programacion/programacion-II/`
-- `programacion/programacion-III/`
-- `programacion/intro-programacion-cuantica/`
-
-### 🏗️ Arquitectura
-- `arquitectura/fundamentos-arquitectura/`
-- `arquitectura/arquitectura-computadoras/`
-- `arquitectura/taller-arquitectura/`
-- `arquitectura/intro-arquitectura-cuantica/`
-
-### 🗣️ Lenguajes
-- `lenguajes/taller-lenguajes-I/`
-- `lenguajes/taller-lenguajes-II/`
-
-### 🖥️ Sistemas Operativos
-- `sistemas-operativos/conceptos-sistemas-operativos/`
-
-### ⚡ Electrónica y Hardware
-- `electronica-hardware/electrotecnia-electronica/`
-- `electronica-hardware/intro-diseno-logico/`
-- `electronica-hardware/instrumentacion-control/`
-- `electronica-hardware/circuitos-digitales-microcontroladores/`
-
-### 🗄️ Bases de Datos
-- `bases-de-datos/conceptos-bases-de-datos/`
-- `bases-de-datos/bases-de-datos/`
-
-### 📡 Señales y Sistemas
-- `senales-sistemas/intro-procesamiento-senales/`
-- `senales-sistemas/sistemas-tiempo-real/`
-- `senales-sistemas/concurrencia-paralelismo/`
-- `senales-sistemas/sistemas-distribuidos-paralelos/`
-
-### 🌐 Redes
-- `redes/redes-datos-I/`
-- `redes/redes-datos-II/`
-
-### 🛠️ Ingeniería de Software
-- `ingenieria-software/ingenieria-software/`
-
-### 🚀 Proyectos
-- `proyectos/taller-proyecto-I/`
-- `proyectos/taller-proyecto-II/`
-
-- Sientete libre de urguear y revisar cada carpeta, en la ultima actualizacion de este README apenas estoy en el primer semestre por lo que casi todas las carpetas estan vacias, prometo mantener este repositorio al dia, por si a alguien le ayuda. ^ ^
-
-### 🎯 Optativas
-- `optativas/teoria-informacion-codificacion/`
-- `optativas/cloud-computing-o-gpu/`
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Siro%20Viola-cyan?style=for-the-badge&logo=github" alt="Developer Siro" />
+  <img src="https://img.shields.io/badge/Universidad-UNLP-violet?style=for-the-badge&logo=education" alt="UNLP" />
+  <img src="https://img.shields.io/badge/Carrera-Ingeniería%20en%20Computación-blue?style=for-the-badge&logo=cpu" alt="Carrera" />
+</p>
 
 ---
-*Repositorio organizado y mantenido por Siro.*
+
+## 🌟 Sobre este Repositorio
+Este espacio es mi **bitácora y portafolio académico** personal. Aquí guardo, organizo y documento todas las prácticas, laboratorios, proyectos y notas de estudio a lo largo de mi carrera de **Ingeniería en Computación** en la **Universidad Nacional de La Plata (UNLP)**, comenzando desde el día uno del semestre 1.
+
+La meta de este repositorio es doble:
+1. **Historial de Progreso:** Registrar mi evolución técnica, desde mis primeros algoritmos estructurados en Pascal hasta arquitecturas de hardware, sistemas operativos, computación cuántica y proyectos complejos.
+2. **Portafolio Profesional:** Servir como una vitrina abierta al mundo para que reclutadores y empresas tecnológicas aprecien de primera mano mi dedicación, nivel de organización y calidad de código.
+
+---
+
+## 🗺️ Progreso del Plan de Estudios
+Aquí tienes una barra de progreso de mis materias organizadas por semestres:
+
+* **1º Año - Semestre 1:** `[▓▓▓▓▓▓▓▓░░] 80%` — *Programación I en recta final, FAC en curso*
+* **1º Año - Semestre 2:** `[░░░░░░░░░░] 0%` — *Próximamente*
+* **2º Año en adelante:** `[🔒 Bloqueado]`
+
+---
+
+## 🗂️ Estructura del Repositorio (Mapa de Materias)
+
+El repositorio está organizado en base a **áreas de conocimiento** y materias específicas. Puedes hacer clic en los enlaces de las carpetas para explorar las materias activas:
+
+### 💻 Área: Programación
+* 🟢 **[Programación I (Pascal)](./programacion/programacion-I/)** `[Semestre 1]` — *Resoluciones de prácticas, módulos y estructuras de datos estáticas.*
+* 🟤 **Programación II** `[Semestre 2]`
+* 🟤 **Programación III** `[Semestre 3]`
+* 🟤 **Introducción a la Programación Cuántica** `[Semestre 10 - Optativa]`
+
+### 🏗️ Área: Arquitectura y Hardware
+* 🟡 **Fundamentos de Arquitectura de Computadoras (FAC)** `./arquitectura/fundamentos-arquitectura/` `[Semestre 1]` — *Circuitos combinacionales, microarquitectura, Assembler.*
+* 🟤 **Introducción al Diseño Lógico** `./electronica-hardware/intro-diseno-logico/` `[Semestre 5]`
+* 🟤 **Electrotecnia y Electrónica** `./electronica-hardware/electrotecnia-electronica/` `[Semestre 5]`
+* 🟤 **Arquitectura de Computadoras** `./arquitectura/arquitectura-computadoras/` `[Semestre 3]`
+* 🟤 **Taller de Arquitectura de Computadoras** `./arquitectura/taller-arquitectura/` `[Semestre 7]`
+
+### 🗣️ Área: Lenguajes y Sistemas
+* 🟤 **Taller de Lenguajes I** `./lenguajes/taller-lenguajes-I/` `[Semestre 3]`
+* 🟤 **Taller de Lenguajes II** `./lenguajes/taller-lenguajes-II/` `[Semestre 4]`
+* 🟤 **Conceptos de Sistemas Operativos** `./sistemas-operativos/conceptos-sistemas-operativos/` `[Semestre 4]`
+* 🟤 **Conceptos de Bases de Datos** `./bases-de-datos/conceptos-bases-de-datos/` `[Semestre 5]`
+* 🟤 **Redes de Datos I** `./redes/redes-datos-I/` `[Semestre 6]`
+
+---
+
+## 🛠️ Tecnologías y Lenguajes en Uso
+A medida que avance la carrera, el repositorio sumará soporte para múltiples tecnologías:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pascal-002C66?style=flat-square&logo=appveyor&logoColor=white" alt="Pascal" />
+  <img src="https://img.shields.io/badge/Assembler-808080?style=flat-square&logo=cpu&logoColor=white" alt="Assembler" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 📬 Contacto
+Si eres estudiante de la UNLP, estás cursando las mismas materias y te sirve alguna resolución, ¡siéntete libre de husmear! Y si tienes alguna sugerencia o quieres charlar sobre la carrera:
+
+* **Autor:** Siro Viola
+* **Universidad:** Universidad Nacional de La Plata (UNLP)
+* **Carrera:** Ingeniería en Computación
+
+---
+<p align="center">
+  <i>"La constancia y el orden son las claves que separan al estudiante del profesional."</i> 🚀
+</p>
