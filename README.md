@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Siro%20Viola-cyan?style=for-the-badge&logo=github" alt="Developer Siro" />
+  <img src="https://img.shields.io/badge/Estudiante-Ciro%20Viola-cyan?style=for-the-badge&logo=github" alt="Developer Ciro" />
   <img src="https://img.shields.io/badge/Universidad-UNLP-violet?style=for-the-badge&logo=education" alt="UNLP" />
   <img src="https://img.shields.io/badge/Carrera-Ingeniería%20en%20Computación-blue?style=for-the-badge&logo=cpu" alt="Carrera" />
 </p>
@@ -21,12 +21,10 @@ La meta de este repositorio es doble:
 
 ---
 
-## 🗺️ Progreso del Plan de Estudios
-Aquí tienes una barra de progreso de mis materias organizadas por semestres:
+## 🎮 Progreso de la Carrera (Grado + Posgrado)
+Aquí tienes el avance general de mi viaje académico (estimado en 13 semestres de aventura incluyendo posgrado):
 
-* **1º Año - Semestre 1:** `[▓▓▓▓▓▓▓▓░░] 80%` — *Programación I en recta final, FAC en curso*
-* **1º Año - Semestre 2:** `[░░░░░░░░░░] 0%` — *Próximamente*
-* **2º Año en adelante:** `[🔒 Bloqueado]`
+* **Progreso General:** `[█░░░░░░░░░░░░] 7.6%` (1 de 13 semestres completados/en curso) 🎓
 
 ---
 
@@ -72,7 +70,7 @@ A medida que avance la carrera, el repositorio sumará soporte para múltiples t
 ## 📬 Contacto
 Si eres estudiante de la UNLP, estás cursando las mismas materias y te sirve alguna resolución, ¡siéntete libre de husmear! Y si tienes alguna sugerencia o quieres charlar sobre la carrera:
 
-* **Autor:** Siro Viola
+* **Autor:** Ciro Viola
 * **Universidad:** Universidad Nacional de La Plata (UNLP)
 * **Carrera:** Ingeniería en Computación
 
