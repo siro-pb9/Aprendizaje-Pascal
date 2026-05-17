@@ -1,6 +1,6 @@
 # UNLP Ingeniería en Computación - Bitácora 🚀
 
-Este repositorio contiene todos los trabajos, prácticas y proyectos de la carrera de **Ingeniería en Computación** en la Universidad Nacional de La Plata (UNLP).
+Este repositorio contiene todos los trabajos, prácticas y proyectos de la carrera de **Ingeniería en Computación** que realize o voy a realizar en la Universidad Nacional de La Plata (UNLP).
 
 ## 🗂️ Estructura del Repositorio
 
@@ -51,6 +51,8 @@ El repositorio está organizado por **áreas de conocimiento** y luego por **mat
 ### 🚀 Proyectos
 - `proyectos/taller-proyecto-I/`
 - `proyectos/taller-proyecto-II/`
+
+- Sientete libre de urguear y revisar cada carpeta, en la ultima actualizacion de este README apenas estoy en el primer semestre por lo que casi todas las carpetas estan vacias, prometo mantener este repositorio al dia, por si a alguien le ayuda. ^ ^
 
 ### 🎯 Optativas
 - `optativas/teoria-informacion-codificacion/`
