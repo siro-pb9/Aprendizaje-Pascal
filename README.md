@@ -8,10 +8,10 @@
   <a href="https://github.com/siro-pb9">
     <img src="https://img.shields.io/badge/Estudiante-Ciro%20Viola-cyan?style=for-the-badge&logo=github" alt="Developer Ciro" />
   </a>
-  <a href="https://info.unlp.edu.ar">
+  <a href="https://unlp.edu.ar/">
     <img src="https://img.shields.io/badge/Universidad-UNLP-violet?style=for-the-badge&logo=education" alt="UNLP" />
   </a>
-  <a href="https://info.unlp.edu.ar/ingenieria-en-computacion/">
+  <a href="https://ic.info.unlp.edu.ar/alcances-del-titulo-y-competencias-profesionales-de-ingenieria-en-computacion/">
     <img src="https://img.shields.io/badge/Carrera-Ingeniería%20en%20Computación-blue?style=for-the-badge&logo=cpu" alt="Carrera" />
   </a>
 </p>
