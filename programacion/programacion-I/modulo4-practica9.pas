@@ -102,4 +102,7 @@ for ipais := 1 to 25 do begin
     end;
 end;
 writeln('El promedio de edad de los 250 participantes es ', suma / 250:0:2);
+writeln('El pais con mayor cantidad de mujeres que presentaron platos caliente fue ',maxFemPais);
+readln;
+readln;
 end.
