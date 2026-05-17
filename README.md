@@ -42,44 +42,44 @@ El repositorio ahora está organizado por **semestres**. Puedes hacer clic en lo
 
 ### 🎓 1º Año
 * **Semestre 1:**
-  * 🟢 **[Programación I (Pascal)](./semestre-1/programacion-I/)** — *Resoluciones de prácticas, módulos y estructuras de datos.*
-  * 🟡 **[Fundamentos de Arquitectura de Computadoras (FAC)](./semestre-1/fundamentos-arquitectura/)** — *Circuitos, microarquitectura, Assembler.*
+  * 🟢 **[Programación I (Pascal)](./semestre-01/programacion-I/)** — *Resoluciones de prácticas, módulos y estructuras de datos.*
+  * 🟡 **[Fundamentos de Arquitectura de Computadoras (FAC)](./semestre-01/fundamentos-arquitectura/)** — *Circuitos, microarquitectura, Assembler.*
 * **Semestre 2:**
-  * 🟤 **[Programación II](./semestre-2/programacion-II/)**
+  * 🟤 **[Programación II](./semestre-02/programacion-II/)**
 
 ### 🎓 2º Año
 * **Semestre 3:**
-  * 🟤 **[Programación III](./semestre-3/programacion-III/)**
-  * 🟤 **[Arquitectura de Computadoras](./semestre-3/arquitectura-computadoras/)**
-  * 🟤 **[Taller de Lenguajes I](./semestre-3/taller-lenguajes-I/)**
+  * 🟤 **[Programación III](./semestre-03/programacion-III/)**
+  * 🟤 **[Arquitectura de Computadoras](./semestre-03/arquitectura-computadoras/)**
+  * 🟤 **[Taller de Lenguajes I](./semestre-03/taller-lenguajes-I/)**
 * **Semestre 4:**
-  * 🟤 **[Conceptos de Sistemas Operativos](./semestre-4/conceptos-sistemas-operativos/)**
-  * 🟤 **[Taller de Lenguajes II](./semestre-4/taller-lenguajes-II/)**
+  * 🟤 **[Conceptos de Sistemas Operativos](./semestre-04/conceptos-sistemas-operativos/)**
+  * 🟤 **[Taller de Lenguajes II](./semestre-04/taller-lenguajes-II/)**
 
 ### 🎓 3º Año
 * **Semestre 5:**
-  * 🟤 **[Conceptos de Bases de Datos](./semestre-5/conceptos-bases-de-datos/)**
-  * 🟤 **[Electrotecnia y Electrónica](./semestre-5/electrotecnia-electronica/)**
-  * 🟤 **[Introducción al Diseño Lógico](./semestre-5/intro-diseno-logico/)**
+  * 🟤 **[Conceptos de Bases de Datos](./semestre-05/conceptos-bases-de-datos/)**
+  * 🟤 **[Electrotecnia y Electrónica](./semestre-05/electrotecnia-electronica/)**
+  * 🟤 **[Introducción al Diseño Lógico](./semestre-05/intro-diseno-logico/)**
 * **Semestre 6:**
-  * 🟤 **[Introducción al Procesamiento de Señales](./semestre-6/intro-procesamiento-senales/)**
-  * 🟤 **[Redes de Datos I](./semestre-6/redes-datos-I/)**
-  * 🟤 **[Bases de Datos](./semestre-6/bases-de-datos/)**
-  * 🟤 **[Circuitos Digitales y Microcontroladores](./semestre-6/circuitos-digitales-microcontroladores/)**
+  * 🟤 **[Introducción al Procesamiento de Señales](./semestre-06/intro-procesamiento-senales/)**
+  * 🟤 **[Redes de Datos I](./semestre-06/redes-datos-I/)**
+  * 🟤 **[Bases de Datos](./semestre-06/bases-de-datos/)**
+  * 🟤 **[Circuitos Digitales y Microcontroladores](./semestre-06/circuitos-digitales-microcontroladores/)**
 
 ### 🎓 4º Año
 * **Semestre 7:**
-  * 🟤 **[Taller de Arquitectura de Computadoras](./semestre-7/taller-arquitectura/)**
-  * 🟤 **[Ingeniería de Software](./semestre-7/ingenieria-software/)**
-  * 🟤 **[Instrumentación y Control](./semestre-7/instrumentacion-control/)**
-  * 🟤 **[Redes de Datos II](./semestre-7/redes-datos-II/)**
+  * 🟤 **[Taller de Arquitectura de Computadoras](./semestre-07/taller-arquitectura/)**
+  * 🟤 **[Ingeniería de Software](./semestre-07/ingenieria-software/)**
+  * 🟤 **[Instrumentación y Control](./semestre-07/instrumentacion-control/)**
+  * 🟤 **[Redes de Datos II](./semestre-07/redes-datos-II/)**
 * **Semestre 8:**
-  * 🟤 **[Sistemas en Tiempo Real](./semestre-8/sistemas-tiempo-real/)**
-  * 🟤 **[Concurrencia y Paralelismo](./semestre-8/concurrencia-paralelismo/)**
+  * 🟤 **[Sistemas en Tiempo Real](./semestre-08/sistemas-tiempo-real/)**
+  * 🟤 **[Concurrencia y Paralelismo](./semestre-08/concurrencia-paralelismo/)**
 
 ### 🎓 5º Año
 * **Semestre 9:**
-  * 🟤 **[Sistemas Distribuidos y Paralelos](./semestre-9/sistemas-distribuidos-paralelos/)**
+  * 🟤 **[Sistemas Distribuidos y Paralelos](./semestre-09/sistemas-distribuidos-paralelos/)**
 * **Semestre 10:**
   * 🟤 **[Introducción a la Programación Cuántica](./semestre-10/intro-arquitectura-cuantica/)**
 
