@@ -106,6 +106,7 @@ A medida que avance la carrera, el repositorio sumará soporte para múltiples t
 Si eres estudiante de la UNLP, estás cursando las mismas materias y te sirve alguna resolución, ¡siéntete libre de husmear! Y si tienes alguna sugerencia o quieres charlar sobre la carrera:
 
 * **Autor:** Ciro Viola
+* **Email Universitario:** [ciro.viola@alu.ing.unlp.edu.ar](mailto:ciro.viola@alu.ing.unlp.edu.ar)
 * **Universidad:** Universidad Nacional de La Plata (UNLP)
 * **Carrera:** Ingeniería en Computación
 
