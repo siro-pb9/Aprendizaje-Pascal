@@ -25,10 +25,12 @@ La meta de este repositorio es doble:
 1. **Historial de Progreso:** Registrar mi evolución técnica, desde mis primeros algoritmos estructurados en Pascal hasta arquitecturas de hardware, sistemas operativos, computación cuántica y proyectos complejos.
 2. **Portafolio Profesional:** Servir como una vitrina abierta al mundo para que reclutadores y empresas tecnológicas aprecien de primera mano mi dedicación, nivel de organización y calidad de código.
 
+Aunque tambien estoy abierto a ayudar a cualquier estudiante que haya ingresado a mi misma carrera, para que pueda revisar en lo que sea que tenga dudas :)
+
 ---
 
 ## 🎮 Progreso de la Carrera (Grado + Posgrado)
-Aquí tienes el avance general de mi viaje académico (estimado en 13 semestres de aventura incluyendo posgrado):
+Aca tienes el avance general de mi viaje académico (estimado en 13 semestres incluyendo posgrado):
 
 * **Progreso General:** `[█░░░░░░░░░░░░] 7.6%` (1 de 13 semestres completados/en curso) 🎓
 
@@ -82,5 +84,5 @@ Si eres estudiante de la UNLP, estás cursando las mismas materias y te sirve al
 
 ---
 <p align="center">
-  <i>"La constancia y el orden son las claves que separan al estudiante del profesional."</i> 🚀
+  <i>"Si quieres algo ve y haz que pase, porque lo unico que cae del cielo, es la lluvia."</i> 
 </p>
