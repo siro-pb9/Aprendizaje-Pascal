@@ -78,5 +78,5 @@ Si eres estudiante de la UNLP, estás cursando las mismas materias y te sirve al
 
 ---
 <p align="center">
-  <i>"La constancia y el orden son las claves que separan al estudiante del profesional."</i> 🚀
+  <i>"Si quieres algo ve y haz que pase, porque lo unico que cae del cielo, es la lluvia."</i> 
 </p>
