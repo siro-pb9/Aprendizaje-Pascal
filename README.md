@@ -112,5 +112,5 @@ Si eres estudiante de la UNLP, estás cursando las mismas materias y te sirve al
 
 ---
 <p align="center">
-  <i>"Si quieres algo ve y haz que pase, porque lo unico que cae del cielo, es la lluvia."</i> 
+  <i>"Que salga lo que tenga que salgar y si no salio hay que fuirse y fue"</i> 
 </p>
