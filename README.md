@@ -38,27 +38,54 @@ Aca tienes el avance general de mi viaje académico (estimado en 13 semestres in
 
 ## 🗂️ Estructura del Repositorio (Mapa de Materias)
 
-El repositorio está organizado en base a **áreas de conocimiento** y materias específicas. Puedes hacer clic en los enlaces de las carpetas para explorar las materias activas:
+El repositorio ahora está organizado por **semestres**. Puedes hacer clic en los enlaces de las carpetas para explorar las materias:
 
-### 💻 Área: Programación
-* 🟢 **[Programación I (Pascal)](./programacion/programacion-I/)** `[Semestre 1]` — *Resoluciones de prácticas, módulos y estructuras de datos estáticas.*
-* 🟤 **Programación II** `[Semestre 2]`
-* 🟤 **Programación III** `[Semestre 3]`
-* 🟤 **Introducción a la Programación Cuántica** `[Semestre 10 - Optativa]`
+### 🎓 1º Año
+* **Semestre 1:**
+  * 🟢 **[Programación I (Pascal)](./semestre-1/programacion-I/)** — *Resoluciones de prácticas, módulos y estructuras de datos.*
+  * 🟡 **[Fundamentos de Arquitectura de Computadoras (FAC)](./semestre-1/fundamentos-arquitectura/)** — *Circuitos, microarquitectura, Assembler.*
+* **Semestre 2:**
+  * 🟤 **[Programación II](./semestre-2/programacion-II/)**
 
-### 🏗️ Área: Arquitectura y Hardware
-* 🟡 **Fundamentos de Arquitectura de Computadoras (FAC)** `./arquitectura/fundamentos-arquitectura/` `[Semestre 1]` — *Circuitos combinacionales, microarquitectura, Assembler.*
-* 🟤 **Introducción al Diseño Lógico** `./electronica-hardware/intro-diseno-logico/` `[Semestre 5]`
-* 🟤 **Electrotecnia y Electrónica** `./electronica-hardware/electrotecnia-electronica/` `[Semestre 5]`
-* 🟤 **Arquitectura de Computadoras** `./arquitectura/arquitectura-computadoras/` `[Semestre 3]`
-* 🟤 **Taller de Arquitectura de Computadoras** `./arquitectura/taller-arquitectura/` `[Semestre 7]`
+### 🎓 2º Año
+* **Semestre 3:**
+  * 🟤 **[Programación III](./semestre-3/programacion-III/)**
+  * 🟤 **[Arquitectura de Computadoras](./semestre-3/arquitectura-computadoras/)**
+  * 🟤 **[Taller de Lenguajes I](./semestre-3/taller-lenguajes-I/)**
+* **Semestre 4:**
+  * 🟤 **[Conceptos de Sistemas Operativos](./semestre-4/conceptos-sistemas-operativos/)**
+  * 🟤 **[Taller de Lenguajes II](./semestre-4/taller-lenguajes-II/)**
 
-### 🗣️ Área: Lenguajes y Sistemas
-* 🟤 **Taller de Lenguajes I** `./lenguajes/taller-lenguajes-I/` `[Semestre 3]`
-* 🟤 **Taller de Lenguajes II** `./lenguajes/taller-lenguajes-II/` `[Semestre 4]`
-* 🟤 **Conceptos de Sistemas Operativos** `./sistemas-operativos/conceptos-sistemas-operativos/` `[Semestre 4]`
-* 🟤 **Conceptos de Bases de Datos** `./bases-de-datos/conceptos-bases-de-datos/` `[Semestre 5]`
-* 🟤 **Redes de Datos I** `./redes/redes-datos-I/` `[Semestre 6]`
+### 🎓 3º Año
+* **Semestre 5:**
+  * 🟤 **[Conceptos de Bases de Datos](./semestre-5/conceptos-bases-de-datos/)**
+  * 🟤 **[Electrotecnia y Electrónica](./semestre-5/electrotecnia-electronica/)**
+  * 🟤 **[Introducción al Diseño Lógico](./semestre-5/intro-diseno-logico/)**
+* **Semestre 6:**
+  * 🟤 **[Introducción al Procesamiento de Señales](./semestre-6/intro-procesamiento-senales/)**
+  * 🟤 **[Redes de Datos I](./semestre-6/redes-datos-I/)**
+  * 🟤 **[Bases de Datos](./semestre-6/bases-de-datos/)**
+  * 🟤 **[Circuitos Digitales y Microcontroladores](./semestre-6/circuitos-digitales-microcontroladores/)**
+
+### 🎓 4º Año
+* **Semestre 7:**
+  * 🟤 **[Taller de Arquitectura de Computadoras](./semestre-7/taller-arquitectura/)**
+  * 🟤 **[Ingeniería de Software](./semestre-7/ingenieria-software/)**
+  * 🟤 **[Instrumentación y Control](./semestre-7/instrumentacion-control/)**
+  * 🟤 **[Redes de Datos II](./semestre-7/redes-datos-II/)**
+* **Semestre 8:**
+  * 🟤 **[Sistemas en Tiempo Real](./semestre-8/sistemas-tiempo-real/)**
+  * 🟤 **[Concurrencia y Paralelismo](./semestre-8/concurrencia-paralelismo/)**
+
+### 🎓 5º Año
+* **Semestre 9:**
+  * 🟤 **[Sistemas Distribuidos y Paralelos](./semestre-9/sistemas-distribuidos-paralelos/)**
+* **Semestre 10:**
+  * 🟤 **[Introducción a la Programación Cuántica](./semestre-10/intro-arquitectura-cuantica/)**
+
+### 🚀 Otros
+* **[Materias Optativas](./materias-optativas/)**
+* **[Proyectos Finales y de Taller](./proyectos-finales/)**
 
 ---
 
