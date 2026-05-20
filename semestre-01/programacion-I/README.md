@@ -43,5 +43,5 @@ Para ejecutar cualquiera de estos programas en tu máquina local:
 
 ---
 <p align="center">
-  <i>"El código es poesía en movimiento... o un dolor de cabeza hasta que compila sin errores."</i> 😉
+  <i>"El código es poesía en movimiento... y pascal es una mierda para OOP."</i> 😉
 </p>
