@@ -19,7 +19,7 @@ Requerimientos de implementación:
 ● Reutilizar la lógica de validación de nombres de la Parte I.
 ● Realizar el procesamiento de los resultados recorriendo la estructura una vez cargada.}
 
-program integrador3;
+program ejercicioIntegrador3;
 
 type
     maxlongitud = string[30]; 

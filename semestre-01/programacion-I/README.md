@@ -26,6 +26,7 @@ A continuación tienes un mapa interactivo de todo el material resuelto en esta 
 | **Módulo 3** | Estructuras de Datos Compuestas: Registros (`record`) | [Práctica 7](./modulo3-practica7.pas) • [Práctica 8](./modulo3-practica8.pas) • [Práctica 11](./modulo3-practica11.pas) |
 | **Módulo 4** | Estructuras de Datos Estáticas: Vectores y Arreglos (`array`) | [Práctica 3](./modulo4-practica3.pas) • [Práctica 7](./modulo4-practica7.pas) • [Práctica 9](./modulo4-practica9.pas) |
 | **Módulo 5** | Procesamiento Complejo, Registros Compuestos y **Corte de Control** | [Práctica 2](./modulo5-practica2.pas) • [Práctica 4](./modulo5-practica4.pas) • [Práctica 5](./modulo5-practica5.pas) |
+| **Módulo 6** | Estructuras de Datos Lineales: Vectores y Arreglos (`array`) | [Práctica 1](./modulo6-practica1.pas) |
 
 ---
 

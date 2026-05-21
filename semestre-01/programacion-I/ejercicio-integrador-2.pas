@@ -13,7 +13,7 @@ b. El promedio de edad de los perros o gatos (especies 1 y 2) ingresados por cad
 c. Al finalizar el proceso, informar los nombres de las dos ciudades que mayor cantidad de
 mascotas enviaron al centro.}
 
-program integrador2;
+program ejercicioIntegrador2;
 
 type
     maxlongitud = string[30];

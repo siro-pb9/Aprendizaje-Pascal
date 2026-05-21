@@ -13,7 +13,7 @@ Requerimientos de implementación:
 • Debe distinguir entre mayúsculas y minúsculas para evaluar las letras consecutivas (Ll es
 inválido).}
 
-program CiroViolaIntegrador;
+program ejercicioIntegrador1;
 const
   FIN = 10;
 
