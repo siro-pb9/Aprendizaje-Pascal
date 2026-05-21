@@ -10,12 +10,11 @@ elementos junto con la posición donde se encuentran.}
 program modulo6practica1;
 
 const
-  DF = 150; // Dimensión física del vector
+  DF = 150; 
 
 type
   numeros = array[1..DF] of integer;
 
-{ a) Módulo que carga un vector con 150 números enteros y lo retorna }
 procedure cargarVector(var v: numeros);
 var
   i: integer;
@@ -26,7 +25,6 @@ begin
   end;
 end;
 
-{ b) Módulo que retorna el promedio, porcentaje de negativos y porcentaje de positivos }
 procedure calcularEstadisticas(const v: numeros; var promedio, porcNeg, porcPos: real);
 var
   i, suma, cantNeg, cantPos: integer;
@@ -46,7 +44,6 @@ begin
   porcPos := (cantPos * 100.0) / DF;
 end;
 
-{ c) Módulo que retorna la cantidad de elementos dentro de un rango [valorMin, valorMax] }
 function contarEnRango(const v: numeros; valorMin, valorMax: integer): integer;
 var
   i, cant: integer;
@@ -59,7 +56,6 @@ begin
   contarEnRango := cant;
 end;
 
-{ d) Módulo que retorna los dos valores mínimos y sus posiciones }
 procedure encontrarDosMinimos(const v: numeros; var min1, min2: integer; var pos1, pos2: integer);
 var
   i: integer;
@@ -116,5 +112,5 @@ begin
   
   writeln;
   writeln('Presione Enter para salir...');
-  readln;
+  readln; 
 end.
