@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.info.unlp.edu.ar/"><img src="https://img.shields.io/badge/Universidad-UNLP%20%7C%20Facultad%20de%20Informática-blueviolet?style=for-the-badge&logo=education" alt="UNLP Badge" /></a>
-  <a href="https://github.com/siro-pb9/UNLP-Ing-en-Computacion/search?q=extension:pas"><img src="https://img.shields.io/badge/Lenguaje-Pascal-blue?style=for-the-badge&logo=appveyor" alt="Pascal Badge" /></a>
+  <a href="https://github.com/siro-pb9/UNLP-Ing-en-Computacion/search?q=path:*.pas"><img src="https://img.shields.io/badge/Lenguaje-Pascal-blue?style=for-the-badge&logo=appveyor" alt="Pascal Badge" /></a>
   <a href="../../"><img src="https://img.shields.io/badge/Estado-En%20Curso-glowinggreen?style=for-the-badge&logo=codetriage" alt="Status Badge" /></a>
 </p>
 
