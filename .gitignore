@@ -1,3 +1,7 @@
 *.o
 *.exe
 *.out
+*.ppu
+*.compiled
+*.or
+*.rsj
