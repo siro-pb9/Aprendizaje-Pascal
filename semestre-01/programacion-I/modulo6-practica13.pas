@@ -25,7 +25,7 @@ procedure procesarNumeros(var v: vNumeros; var dL: integer);
       readln(num);
       if num <> FIN then begin
         j := 1;
-        while (j <= 8) and (num < v[j]) do 1
+        while (j <= 8) and (num < v[j]) do 
           j := j + 1;
           pos := j;
         if (pos <= 8) then  begin
