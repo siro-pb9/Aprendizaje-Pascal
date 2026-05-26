@@ -9,6 +9,7 @@
 ---
 
 ## 📖 Descripción General
+
 ¡Bienvenido a la sección de **Programación I**! Esta es la primera materia de programación en la carrera de **Ingeniería en Computación** de la Universidad Nacional de La Plata (UNLP).
 
 Aquí guardo todas las resoluciones de las prácticas, agrupadas por módulos. Todo el código está escrito en **Pascal** y estructurado de forma modular y prolija, utilizando las mejores prácticas recomendadas por la cátedra (modularización, pasaje de parámetros por valor/referencia, tipos definidos por el usuario, y algoritmos de procesamiento eficientes como **Corte de Control** y **Búsqueda/Ordenación**).
@@ -31,18 +32,21 @@ A continuación tienes un mapa interactivo de todo el material resuelto en esta 
 ---
 
 ## 🛠️ Herramientas de Compilación
+
 Para ejecutar cualquiera de estos programas en tu máquina local:
 
 1. Asegúrate de tener instalado el compilador **Free Pascal (FPC)**.
 2. Abre la terminal en esta carpeta y compila usando:
+
    ```bash
    fpc nombre_del_archivo.pas
    ```
+
 3. Ejecuta el archivo binario generado:
    * **Windows:** `nombre_del_archivo.exe`
    * **Linux/macOS:** `./nombre_del_archivo`
 
 ---
 <p align="center">
-  <i>"El código es poesía en movimiento... y pascal es una mierda para OOP."</i> 😉
+  <i>"El código es poesía en movimiento... y pascal es una mierda para OOP."</i>
 </p>

@@ -15,13 +15,20 @@ type
 
 procedure leerFrase(var f: frase; var dL: integer); 
 var
-  i: integer;
+  car: char;
 begin
   dL := 0;
-  for i := 1 to FIN do begin
-    writeln('ingrese el caracter ',i);
-    readln(f[i]);
-    dl := dl + 1;
+  writeln('Ingrese la frase caracter por caracter (presione Enter despues de cada uno y termine con punto "."):');
+  readln(car);
+  while (dL < FIN) and (car <> '.') do begin
+    dL := dL + 1;
+    f[dL] := car;
+    if (dL < FIN) then
+      readln(car);
+  end;
+  if (dL < FIN) and (car = '.') then begin
+    dL := dL + 1;
+    f[dL] := '.';
   end;
 end;
 
@@ -61,7 +68,21 @@ begin
   procesarFraseB := cantPalabras;
 end;
 
+var
+  f: frase;
+  dimL, cantA, cantB: integer;
 begin
+  leerFrase(f, dimL);
+  
+  cantA := procesarFraseA(f, dimL);
+  writeln('La cantidad de palabras (Metodo A) es: ', cantA);
+  
+  cantB := procesarFraseB(f);
+  writeln('La cantidad de palabras (Metodo B) es: ', cantB);
+  
+  writeln;
+  writeln('Presione Enter para salir...');
+  readln;
 end.
 
 
