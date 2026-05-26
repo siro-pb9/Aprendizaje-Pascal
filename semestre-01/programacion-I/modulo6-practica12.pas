@@ -109,51 +109,69 @@ end;
 
 var
   nombres: vNombres;
-  dimL, pos: integer;
+  dimL, pos, i: integer;
   exito: boolean;
+  nombre: str30;
+  cant: integer;
 begin
   writeln('--- PROBADOR DE NOMBRES ---');
+  write('Cuantos nombres desea cargar inicialmente? (ej. 5): ');
+  readln(cant);
   
-  { Carga inicial simulada }
-  dimL := 5;
-  nombres[1] := 'Ana';
-  nombres[2] := 'Carlos';
-  nombres[3] := 'Gaston';
-  nombres[4] := 'Maria';
-  nombres[5] := 'Maria'; { Repetido para probar eliminarTodos }
+  dimL := 0;
+  for i := 1 to cant do begin
+    write('Ingrese el nombre ', i, ': ');
+    readln(nombres[i]);
+    dimL := dimL + 1;
+  end;
   
-  writeln('Nombres iniciales: Ana, Carlos, Gaston, Maria, Maria');
   writeln;
-  
-  pos := encontrarNombre(nombres, dimL, 'Gaston');
-  writeln('Buscar "Gaston": posicion ', pos);
-  
-  pos := encontrarNombre(nombres, dimL, 'Daniel');
-  writeln('Buscar "Daniel" (no existe): posicion ', pos);
-  writeln;
-  
-  writeln('Insertando "Daniel" en orden...');
-  insertarNombre(nombres, dimL, 'Daniel', exito);
-  if exito then
-    writeln('Lista nueva: ', nombres[1], ', ', nombres[2], ', ', nombres[3], ', ', nombres[4], ', ', nombres[5], ', ', nombres[6])
+  write('Ingrese el nombre a buscar: ');
+  readln(nombre);
+  pos := encontrarNombre(nombres, dimL, nombre);
+  if pos <> -1 then
+    writeln('Encontrado en la posicion: ', pos)
   else
-    writeln('Error al insertar.');
-  writeln;
+    writeln('No se encontro en la lista.');
     
-  writeln('Eliminando "Carlos"...');
-  eliminarNombre(nombres, dimL, 'Carlos', exito);
-  if exito then
-    writeln('Lista nueva: ', nombres[1], ', ', nombres[2], ', ', nombres[3], ', ', nombres[4], ', ', nombres[5])
-  else
-    writeln('Error al eliminar.');
   writeln;
-  
-  writeln('Eliminando todos los "Maria"...');
-  eliminarTodos(nombres, dimL, 'Maria', exito);
-  if exito then
-    writeln('Lista nueva: ', nombres[1], ', ', nombres[2], ', ', nombres[3])
+  write('Ingrese el nombre a insertar (manteniendo el orden): ');
+  readln(nombre);
+  insertarNombre(nombres, dimL, nombre, exito);
+  if exito then begin
+    write('Lista despues de insertar: ');
+    for i := 1 to dimL do
+      write(nombres[i], ' | ');
+    writeln;
+  end
   else
-    writeln('Error al eliminar todos.');
+    writeln('Error al insertar (lista llena).');
+    
+  writeln;
+  write('Ingrese el nombre a eliminar (solo la primera ocurrencia): ');
+  readln(nombre);
+  eliminarNombre(nombres, dimL, nombre, exito);
+  if exito then begin
+    write('Lista despues de eliminar: ');
+    for i := 1 to dimL do
+      write(nombres[i], ' | ');
+    writeln;
+  end
+  else
+    writeln('No se pudo eliminar (no existe).');
+    
+  writeln;
+  write('Ingrese el nombre del que desea eliminar todas sus ocurrencias: ');
+  readln(nombre);
+  eliminarTodos(nombres, dimL, nombre, exito);
+  if exito then begin
+    write('Lista despues de eliminar todos: ');
+    for i := 1 to dimL do
+      write(nombres[i], ' | ');
+    writeln;
+  end
+  else
+    writeln('No se pudo eliminar todos (no existe).');
     
   writeln;
   writeln('Presione Enter para salir...');

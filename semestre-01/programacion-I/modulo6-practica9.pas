@@ -39,30 +39,29 @@ begin
     c[i] := a[i] and not b[i];
 end;
 
+procedure cargarConjuntoUsuario(var c: vConjunto; nombreConjunto: string);
+var
+  letra: char;
+begin
+  inicializarConjunto(c);
+  writeln('Carga del ', nombreConjunto, ' (ingrese letras de a-z, termine con "."):');
+  readln(letra);
+  while (letra <> '.') do begin
+    if (letra in ['a'..'z']) then
+      c[letra] := true;
+    readln(letra);
+  end;
+end;
+
 var
   conjA, conjB, conjU, conjD: vConjunto;
   letra: char;
 begin
-  inicializarConjunto(conjA);
-  inicializarConjunto(conjB);
+  cargarConjuntoUsuario(conjA, 'Conjunto A');
+  cargarConjuntoUsuario(conjB, 'Conjunto B');
   
-  { Carga de prueba del conjunto A: { a, b, c, d } }
-  conjA['a'] := true;
-  conjA['b'] := true;
-  conjA['c'] := true;
-  conjA['d'] := true;
-  
-  { Carga de prueba del conjunto B: { c, d, e, f } }
-  conjB['c'] := true;
-  conjB['d'] := true;
-  conjB['e'] := true;
-  conjB['f'] := true;
-  
-  writeln('--- TEST DE CONJUNTOS ---');
-  writeln('Conjunto A: { a, b, c, d }');
-  writeln('Conjunto B: { c, d, e, f }');
   writeln;
-  
+  writeln('--- RESULTADOS ---');
   unionConjuntos(conjA, conjB, conjU);
   write('Union (A + B): ');
   for letra := 'a' to 'z' do
@@ -80,4 +79,4 @@ begin
   writeln;
   writeln('Presione Enter para salir...');
   readln;
-end.
+end.
