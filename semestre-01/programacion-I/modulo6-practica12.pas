@@ -114,7 +114,6 @@ var
   nombre: str30;
   cant: integer;
 begin
-  writeln('--- PROBADOR DE NOMBRES ---');
   write('Cuantos nombres desea cargar inicialmente? (ej. 5): ');
   readln(cant);
   
